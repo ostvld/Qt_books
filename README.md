@@ -1,6 +1,9 @@
 # Оригинальные репозитории, связанные с Qt/QML  
 ## 🧱 Чистый Qt / C++ (31 проект)
 
+- **[qt6-c-gui-programming-cookbook--third-edition-](https://github.com/PacktPublishing/QT6-C-GUI-Programming-Cookbook---Third-Edition-)**  
+  Рецепты и примеры для разработки на Qt 6.
+
 - **[qmlbook/qt6book](https://github.com/qmlbook/qt6book)**  
   Исходный код книги «The Qt 6 Book» — руководство по QML и Qt 6.
 
